@@ -1,5 +1,0 @@
-# Remote Data
-
-```{tableofcontents}
-
-```

@@ -1,5 +1,0 @@
-# Indexing
-
-```{tableofcontents}
-
-```

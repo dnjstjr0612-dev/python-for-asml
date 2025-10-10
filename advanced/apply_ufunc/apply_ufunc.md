@@ -1,5 +1,0 @@
-# apply_ufunc
-
-```{tableofcontents}
-
-```

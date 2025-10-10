@@ -1,5 +1,0 @@
-# Labeled data
-
-```{tableofcontents}
-
-```

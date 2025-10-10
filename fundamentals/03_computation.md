@@ -1,5 +1,0 @@
-# Computation
-
-```{tableofcontents}
-
-```
