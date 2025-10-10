@@ -1,0 +1,3 @@
+[submodule "xarray/tutorial"]
+	path = xarray/tutorial
+	url = https://github.com/xarray-contrib/xarray-tutorial.git
