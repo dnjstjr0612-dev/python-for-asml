@@ -1,0 +1,4 @@
+git submodule update --remote xarray/tutorial
+git add xarray/tutorial
+git commit -m "Update xarray-tutorial"
+git push
